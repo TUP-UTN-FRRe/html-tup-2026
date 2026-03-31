@@ -21,3 +21,12 @@
             #parrafo-1{
                 color: blue;
             }
+
+#div-1{
+    background-color: lightgray;
+    min-height: 200px;
+    width: 50%;
+    position: absolute;
+    top:0px;
+
+}
