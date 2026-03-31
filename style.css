@@ -1,0 +1,23 @@
+   /* 1 Etiqueta */
+            h1{
+                color: fuchsia;
+            }
+
+            utnprogramacion3{
+                color: green;
+                font-size: 20px;
+            }
+
+            /* 2 Clase */
+            .texto-rojo{
+                color: red;
+            }
+
+            .texto-tamanio-grande{
+                font-size: 30px;
+            }
+
+            /* 3 ID/Identifier */
+            #parrafo-1{
+                color: blue;
+            }
